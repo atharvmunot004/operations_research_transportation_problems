@@ -73,7 +73,7 @@ It also includes:
    * Generate a random problem
    * Solve with NWCM, LCM, VAM
    * Optimize with MODI
-   * Save allocations, logs, and summaries in `out/`
+   * Save allocations, logs, and summaries in `dataset/`
 
 4. **Plot performance**
 
@@ -104,7 +104,7 @@ Saved plot -> plots/methods_time_comparison.png
 
 ### Bar Chart
 
-![Performance Plot](plots\methods_time_comparison.png)
+![Performance Plot](plots/methods_time_comparison.png)
 
 ---
 
